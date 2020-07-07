@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">AboutMe</string>
+    <string name="name">Maja Francetic</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Maja.
+        \n\nI love programming, travelling and reading.
+        \n\nI have recently completed a Java Programming Bootcamp and am now developing my skills through
+        different online courses and private projects. My favourite programming languages are Java and Kotlin.
+        \n\nI have visited several European countries, as well as the United States of America. I
+        liked Vienna, Zurich, New York, Paris, Dublin and Amsterdam the most. My next destination is
+        Novi Sad, Serbia and Southeast Asia (Vietnam).
+        \n\nI have been a member of the library since I was 4, and I enjoy reading novels, popular
+        psychology and sociology. My favourite books are the Harry Potter series.</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
 </resources>
